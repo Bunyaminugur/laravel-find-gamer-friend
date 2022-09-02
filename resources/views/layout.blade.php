@@ -24,11 +24,11 @@
                 },
             };
         </script>
-        <title>LaraGigs | Find Laravel Jobs & Projects</title>
+        <title>FindGamer</title>
     </head>
     <body class="mb-48">
         <nav class="flex justify-between items-center mb-4">
-            <a href="index.html"
+            <a href="/"
                 ><img class="w-24" src="{{asset('images/logo.png')}}" alt="" class="logo"
             /></a>
             <ul class="flex space-x-6 mr-6 text-lg">
@@ -57,7 +57,7 @@
         <a
             href="create.html"
             class="absolute top-1/3 right-10 bg-black text-white py-2 px-5"
-            >Post Job</a
+            >Post GamerForm</a
         >
     </footer>
 </body>
